@@ -20,6 +20,8 @@
 
 6. https://www.youtube.com/watch?v=moeAmM-7ybE
 
+7. https://dev.to/scahhht/simple-steps-for-testing-a-chrome-extension-in-puppeteer-2pm3
+
 ## Tool
 
 1. NVM

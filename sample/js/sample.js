@@ -1,5 +1,4 @@
-const puppeteer = require('puppeteer-core');
-
+const puppeteer = require('puppeteer');
 (async () => {
   // 使用自訂的 Chrome
   const browser = await puppeteer.launch({

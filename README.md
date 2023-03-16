@@ -22,7 +22,7 @@
 
 1. NVM
 
-https://www.casper.tw/development/2022/01/10/install-nvm/
+- https://www.casper.tw/development/2022/01/10/install-nvm/
 
 ```
 nvm install 18
@@ -30,4 +30,7 @@ nvm install 18
 
 2. Puppeteer IDE
 
-https://chrome.google.com/webstore/detail/puppeteer-ide/ilehdekjacappgghkgmmlbhgbnlkgoid
+- https://chrome.google.com/webstore/detail/puppeteer-ide/ilehdekjacappgghkgmmlbhgbnlkgoid
+
+- https://github.com/gajananpp/puppeteer-ide-extension
+

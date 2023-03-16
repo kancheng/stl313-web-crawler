@@ -49,3 +49,12 @@ node -v
 
 - https://github.com/gajananpp/puppeteer-ide-extension
 
+4. headless-recorder (已經被棄用)
+
+- https://github.com/checkly/headless-recorder
+
+5. Playwright Codegen
+
+- https://playwright.dev/docs/codegen
+
+- https://github.com/microsoft/playwright

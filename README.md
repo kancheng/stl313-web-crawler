@@ -16,8 +16,14 @@
 
 ## Tool
 
-1. https://www.casper.tw/development/2022/01/10/install-nvm/
+1. NVM
+
+https://www.casper.tw/development/2022/01/10/install-nvm/
 
 ```
 nvm install 18
 ```
+
+2. Puppeteer IDE
+
+https://chrome.google.com/webstore/detail/puppeteer-ide/ilehdekjacappgghkgmmlbhgbnlkgoid

@@ -22,6 +22,8 @@
 
 7. https://dev.to/scahhht/simple-steps-for-testing-a-chrome-extension-in-puppeteer-2pm3
 
+8. https://ithelp.ithome.com.tw/m/articles/10297395
+
 ## Tool
 
 1. NVM
@@ -58,3 +60,9 @@ node -v
 - https://playwright.dev/docs/codegen
 
 - https://github.com/microsoft/playwright
+
+- https://zhuanlan.zhihu.com/p/343895395
+
+
+
+

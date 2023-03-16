@@ -2,5 +2,9 @@
   "dependencies": {
     "jest": "^22.1.4",
     "puppeteer": "^18.1.0"
-  }
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  },
+  "scripts": {}
 }

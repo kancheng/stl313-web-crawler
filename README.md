@@ -34,7 +34,12 @@ nvm use 18.15.0
 node -v
 ```
 
-2. Puppeteer IDE
+2. node.js
+
+- https://mirrors.tuna.tsinghua.edu.cn/help/nodejs-release/
+
+
+3. Puppeteer IDE
 
 - https://chrome.google.com/webstore/detail/puppeteer-ide/ilehdekjacappgghkgmmlbhgbnlkgoid
 

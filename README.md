@@ -24,6 +24,9 @@
 
 - https://www.casper.tw/development/2022/01/10/install-nvm/
 
+- https://israynotarray.com/nodejs/20200107/3738078915/
+ 
+
 ```
 nvm install 18
 nvm list

@@ -26,6 +26,9 @@
 
 ```
 nvm install 18
+nvm list
+nvm use 18.15.0
+node -v
 ```
 
 2. Puppeteer IDE

@@ -14,3 +14,10 @@
 
 6. https://www.youtube.com/watch?v=moeAmM-7ybE
 
+## Tool
+
+1. https://www.casper.tw/development/2022/01/10/install-nvm/
+
+```
+nvm install 18
+```

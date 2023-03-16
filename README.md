@@ -1,10 +1,12 @@
 # stl313-web-crawler
 
-找指定辯護、國定指派。
+找指定辩护、國定指派。
 
 - https://wenshu.court.gov.cn/website/wenshu/181029CR4M5A62CH/index.html
 
 - https://law.wkinfo.com.cn/
+
+- https://baike.baidu.com/item/%E6%8C%87%E5%AE%9A%E8%BE%A9%E6%8A%A4/1545293
 
 ## Reference
 
@@ -62,6 +64,11 @@ node -v
 - https://github.com/microsoft/playwright
 
 - https://zhuanlan.zhihu.com/p/343895395
+
+
+6. Selenium
+
+- https://blog.csdn.net/weixin_29073241/article/details/113327933
 
 
 
